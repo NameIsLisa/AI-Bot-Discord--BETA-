@@ -1,0 +1,5 @@
+0 Sans
+1 Reimu
+2 Sakuya
+3 Marisa
+4 Youmu
