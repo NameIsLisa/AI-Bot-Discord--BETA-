@@ -1,1 +1,1 @@
-# AI-Bot-Discord--BETA-
+halo! ini adalah project akhirku untuk Kodland phyton Pro
