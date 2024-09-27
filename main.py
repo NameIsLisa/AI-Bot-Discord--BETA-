@@ -12,7 +12,7 @@ try:
 except Exception as e:
     print(f"Error loading model: {e}")
 
-
+# token.txt adalah file yang berisikan token bot discord mu
 with open("token.txt", "r") as f: 
     token = f.read()
 
